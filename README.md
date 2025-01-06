@@ -30,7 +30,7 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 ### Links
 
 - **Solution URL**: [Add your solution URL here](https://your-solution-url.com)
-- **Live Site URL**: [Add your live site URL here](https://your-live-site-url.com)
+- **Live Site URL**: [Add your live site URL here](https://qr-code-component-blue-seven.vercel.app/)
 
 ---
 
